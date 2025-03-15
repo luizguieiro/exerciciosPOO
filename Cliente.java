@@ -34,6 +34,6 @@ public class Cliente {
     }
 
     public String toString() {
-        return "Cliente [ID: " + idCliente + ", Nome: " + nome + ", Email: " + email + ", Telefone: " + telefone + ", Endereco: " + endereco + "]";
+        return "Cliente [ ID: " + idCliente + ", Nome: " + nome + ", Email: " + email + ", Telefone: " + telefone + ", Endereco: " + endereco + "]";
     }
 }

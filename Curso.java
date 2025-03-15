@@ -28,6 +28,6 @@ public class Curso {
     }
 
     public String toString() {
-        return "Curso [ID: " + idCurso + ", Nome: " + nomeCurso + ", Duração: " + duracao + " horas, Preço: R$" + preco + "]";
+        return "Curso [ID: " + idCurso + ", Nome: " + nomeCurso + ", Duração: " + duracao + " horas, Preço: R$" + preco + " ]";
     }
 }
